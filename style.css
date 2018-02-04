@@ -572,5 +572,10 @@ footer{
       position: relative;
       top: -100px;
       }
+
+  .button{
+      margin-left: 260px;
+  }
+
   
 }
